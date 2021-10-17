@@ -20,5 +20,3 @@
 [![Instagram: analiavictoria](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/analiavictoire/)](https://www.instagram.com/analiavictoire/)
 [![Linkedin: analiavictoria](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/analiavictoria/)](https://www.linkedin.com/in/analiavictoria/)
 [![Gmail Badge](https://img.shields.io/badge/-analiavictoire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analiavictoire@gmail.com)](mailto:analiavictoire@gmail.com)
-----
-[![analiavictoria](https://github-readme-stats.vercel.app/api/top-langs/?username=analiavictoria&hide=html&layout=compact&theme=radical)](https://github.com/analiavictoria/)
