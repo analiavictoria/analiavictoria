@@ -16,7 +16,7 @@
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE">
 ----
-### Follow me or contact me:
+### Follow or contact me:
 [![Instagram: analiavictoria](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/analiavictoire/)](https://www.instagram.com/analiavictoire/)
 [![Linkedin: analiavictoria](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/analiavictoria/)](https://www.linkedin.com/in/analiavictoria/)
 [![Gmail Badge](https://img.shields.io/badge/-analiavictoire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analiavictoire@gmail.com)](mailto:analiavictoire@gmail.com)
