@@ -2,11 +2,12 @@
 
 <img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="280">
 
-> <i>I'm an Information Systems student and I'm currently taking my baby steps into this tech and programming career path. I'm also doing a back-end bootcamp at {reprograma}. </i> 💜
+> <i>I'm an Information Systems student and I'm currently taking my baby steps into this tech and programming career path.</i>
 
 ### Skills & tools I'm learning:
 
 <img src="https://img.shields.io/badge/-Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=dd0031">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=FFFFFF">
