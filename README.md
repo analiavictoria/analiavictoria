@@ -2,7 +2,7 @@
 
 <img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="280">
 
-> <i>I recently became a bachelor of Information Systems and my learning journey has been a mix of technical knowledge and its real-world applications, with a focus on uniting business needs with technological solutions..</i>
+> <i>I recently became a bachelor of Information Systems and my learning journey has been a mix of technical knowledge and its real-world applications, with a focus on uniting business needs with technological solutions.</i>
 
 ### 🎓 Educational Background:
 
