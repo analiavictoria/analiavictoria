@@ -1,4 +1,4 @@
-# <img src="https://camo.githubusercontent.com/ade1e2d563860676f5d78d7dc5546f2c5088a5b7da5fb7430c2f6e9024ce9871/68747470733a2f2f63646e2e7261776769742e636f6d2f436f736173446550756d612f436861707069652f62376538616336302f7372632f7265736f75726365732f706574732f70616e64612f6772656574696e67732e676966" width="70" height="70" /> Hello, World! I'm <strong>{Lia}!</strong>
+# Hello, World! I'm <strong>Lia!</strong>
 
 <img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="280">
 
