@@ -19,7 +19,6 @@ Bachelor of Information Systems (2020-2023)
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-C-659ad2?style=flat-square&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE">
 
 ----
