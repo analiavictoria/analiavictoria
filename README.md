@@ -1,32 +1,37 @@
-# Hello, World! I'm <strong>Lia!</strong>
+![](https://komarev.com/ghpvc/?username=analiavictoria&color=fc81ac)
 
-<img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="280">
+# 🖤 Hello, World! I'm Lia!
 
-> <i>I recently became a bachelor of Information Systems and my learning journey has been a mix of technical knowledge and its real-world applications, with a focus on uniting business needs with technological solutions.</i>
+<img align='right' src="https://pa1.narvii.com/6858/3d8d5712b4e31d70ee9ce9c30cdb06146a6db2fb_hq.gif" width="320">
 
-### 🎓 Educational Background:
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=analiavictoria&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎓 Educational Background:
 
 Bachelor of Information Systems (2020-2023)  
 > Project management, software development, database management, systems analysis and cybersecurity.
 
-### 📚 Skills & tools I'm learning:
+## 📚 Skills & tools I'm learning:
 
-<img src="https://img.shields.io/badge/-Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=dd0031">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-C-659ad2?style=flat-square&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-white?style=flat&logo=Angular&logoColor=dd0031">
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src ="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/-Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white">
 
-----
-
-### 📫 Get in touch:
+## 📫 Get in touch:
 Let's connect and collaborate on exciting projects!
 
-[![Instagram: analiavictoria](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/analiavictoire/)](https://www.instagram.com/analiavictoire/)
-[![Linkedin: analiavictoria](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/analiavictoria/)](https://www.linkedin.com/in/analiavictoria/)
-[![Gmail Badge](https://img.shields.io/badge/-analiavictoire@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analiavictoire@gmail.com)](mailto:analiavictoire@gmail.com)
-
+[![Linkedin: analiavictoria](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/analiavictoria/)](https://www.linkedin.com/in/analiavictoria/)
+[![Gmail Badge](https://img.shields.io/badge/-analiavictoire@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:analiavictoire@gmail.com)](mailto:analiavictoire@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/analiavictoria?label=follow&style=social)](https://github.com/analiavictoria)
