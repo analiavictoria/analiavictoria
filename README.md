@@ -32,6 +32,8 @@ Bachelor of Information Systems (2020-2023)
 ## 📫 Get in touch:
 Let's connect and collaborate on exciting projects!
 
+My portfolio: https://liasportfolio.vercel.app  
+
 [![Linkedin: analiavictoria](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/analiavictoria/)](https://www.linkedin.com/in/analiavictoria/)
 [![Gmail Badge](https://img.shields.io/badge/-analiavictoire@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:analiavictoire@gmail.com)](mailto:analiavictoire@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/analiavictoria?label=follow&style=social)](https://github.com/analiavictoria)
