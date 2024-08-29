@@ -9,7 +9,7 @@
 ## 🎓 Educational Background:
 
 Bachelor of Information Systems (2020-2023)  
-> Project management, software development, database management, artificial intelligence, systems analysis and cybersecurity.
+> Project management, software development, software engineering, database management, artificial intelligence, systems analysis, cybersecurity and computer networking.
 
 ## 📚 Skills & tools I'm learning:
 
